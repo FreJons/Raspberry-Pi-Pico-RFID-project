@@ -2,7 +2,6 @@
 ## Tutorial on how to build an RFID scanner with a servo lock using MQTT, Adafruit & Webhooks to transmit and visualize data over the internet
 
 Author: Fredrik Jonsson
-Student ID: fj222un
 
 
 
